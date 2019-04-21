@@ -1,0 +1,7 @@
+{
+  "/api/*": "/$1",
+  "/GetEmployee/:id": "/employees/:id",
+  "/GetEmployeeByName/:name": "/employees?name_like=:name"
+
+  
+}
